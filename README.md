@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Sahaj </h1>
+  <h1> Scifi-ally </h1>
   <p style="color: #00FFFF;"><em>Coding the Future with a Sci-Fi Twist</em></p>
   
 </div>
