@@ -1,14 +1,13 @@
 <div align="center">
   <h1> Sahaj </h1>
   <p>A coder exploring the future of tech</p>
-  <img src="https://media.giphy.com/media/26FPJGjAwuSAnvJAI/giphy.gif" width="400" />
 </div>
 
 ---
 
 ## PROFILE
 - **Role**: Student
-- **Focus**: Web Development & Programming
+- **Focus**: Web Development, Programming & Artificial Intelligence
 - **Location**: Gorakhpur, India
 - **Education**: Lovely Professional University
 - **Email**: sahaj.mauryaa@gmail.com
