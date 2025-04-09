@@ -1,7 +1,7 @@
 <div align="center">
   <h1> 🌟 Sahaj 🌟 </h1>
   <p style="color: #00FFFF;"><em>Coding the Future with a Sci-Fi Twist</em></p>
-  <img src="https://media.giphy.com/media/26FPJGjAwuSAnvJAI/giphy.gif" width="450" alt="Sci-Fi Planet Animation" />
+  
 </div>
 
 ---
