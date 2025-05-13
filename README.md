@@ -1,45 +1,190 @@
-<div align="center">
-  <h1> Scifi-ally </h1>
-  <p style="color: #00FFFF;"><em>Coding the Future with a Sci-Fi Twist</em></p>
+Scifi-ally
+Coding the Future with a Sci-Fi Twist
+
+  .: INITIALIZING TRANSMISSION :.
+
+
+
+🚀 [SYS_INFO] About Me
+
+USER: Scifi-ally | STATUS: OnlineA student at Lovely Professional University, navigating the digital cosmos through Web Development, Programming, and Artificial Intelligence. Stationed in Gorakhpur, India, I’m engineering tech straight out of a sci-fi saga.
+
+
+ROLE: Student
+FOCUS: Web Development, Programming, AI
+LOCATION: Gorakhpur, India
+EDUCATION: Lovely Professional University
+CONTACT: [s--sahaj.mauryaa@gmail.com
+
+🛠️ [CORE_MODULES] Skillset
+
+  HTML
+  CSS
+  JavaScript
+  Java
+  Python
+  Git
+
+
+Skill Matrix
+
   
-</div>
+  
+  
+  
+  
+  
+  
+  
+  
+  HTML
+  CSS
+  JavaScript
+  Java
+  Python
+  Git
+  SQL
+  
+    
+      
+      
+    
+  
 
----
 
-## 🚀 About Me
-- **Role**: <span style="color: #FFD700;">Student</span>
-- **Focus**: <span style="color: #FF69B4;">Web Development, Programming & Artificial Intelligence</span>
-- **Location**: <span style="color: #00FF00;">Gorakhpur, India</span>
-- **Education**: <span style="color: #1E90FF;">Lovely Professional University</span>
-- **Email**: <a href="mailto:sahaj.mauryaa@gmail.com" style="color: #FFA500;">sahaj.mauryaa@gmail.com</a>
+📊 [DATA_VIZ] Stats
+Contribution Matrix
 
-## 🛠️ Skillset
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+  
+  
+  
+  
+  Commits
+  PRs
+  Issues
+  Repos
+  Low
+  High
+  
+  
+  
+    
+      
+      
+    
+  
 
-## 📊 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Scifi-ally&show_icons=true&theme=onedark&hide_border=true&title_color=58A6FF&text_color=C3E88D&icon_color=FAB387" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scifi-ally&layout=compact&theme=onedark&hide_border=true&title_color=58A6FF&text_color=C3E88D" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Scifi-ally&theme=onedark&hide_border=true&background=1E2A44&stroke=58A6FF&ring=FAB387&fire=FAB387&currStreakNum=C3E88D&sideNums=C3E88D&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF" alt="Streak Stats" />
-</div>
 
-## 🌐 Connect with Me
-<div align="center">
-  <a href="https://x.com/R774Blaze"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.linkedin.com/in/sahaj-maurya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sahaj.mauryaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+GitHub Insights
 
----
+🌐 [NETWORK] Connect
 
-<div align="center">
-  <p style="color: #FF00FF;">✨ Crafting Tomorrow’s Tech Today ✨</p>
-  <img src="https://komarev.com/ghpvc/?username=Scifi-ally&color=00FF00&style=for-the-badge" alt="Profile Views" />
-</div>
+  X
+  LinkedIn
+  Email
+
+
+
+
+  .: TRANSMISSION TERMINATED :.
+
+
+
+
+  body {
+    font-family: 'Geist Mono', monospace;
+    background: #000000;
+    color: #FFFFFF;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+  }
+  h1, h2, h3 {
+    color: #FF0000;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  p {
+    color: #FFFFFF;
+  }
+  a {
+    color: #FF0000;
+    text-decoration: none;
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+  a:hover {
+    color: #FFFFFF;
+    transform: scale(1.05);
+  }
+  .dot-matrix {
+    font-size: 14px;
+    color: #FF0000;
+    text-align: center;
+    margin: 20px 0;
+    animation: glitch 1.5s infinite;
+  }
+  .skills-grid, .social-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 10px;
+    justify-items: center;
+    margin: 20px 0;
+  }
+  .skill-badge, .social-badge {
+    background: #333333;
+    color: #FFFFFF;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 12px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: default;
+  }
+  .skill-badge:hover, .social-badge:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 0 10px #FF0000;
+  }
+  .radar-chart, .bar-chart {
+    margin: 20px auto;
+    display: block;
+    animation: chartLoad 1s ease-in-out;
+  }
+  .bar-chart .bar {
+    transition: height 0.5s ease;
+  }
+  .bar-chart .bar:hover {
+    height: 120px;
+  }
+  .bar-chart .bar:hover:after {
+    content: attr(data-tooltip);
+    position: absolute;
+    background: #333333;
+    color: #FFFFFF;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 10px;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  img[src*="github-readme-stats"] {
+    border-radius: 8px;
+    margin: 10px 0;
+    border: 1px solid #333333;
+  }
+  img[src*="komarev.com"] {
+    margin-top: 20px;
+  }
+  @keyframes glitch {
+    0% { transform: translate(0); opacity: 1; }
+    20% { transform: translate(-2px, 2px); opacity: 0.8; }
+    40% { transform: translate(2px, -2px); opacity: 0.9; }
+    60% { transform: translate(-2px, 0); opacity: 0.8; }
+    80% { transform: translate(2px, 0); opacity: 0.9; }
+    100% { transform: translate(0); opacity: 1; }
+  }
+  @keyframes chartLoad {
+    0% { opacity: 0; transform: scale(0.8); }
+    100% { opacity: 1; transform: scale(1); }
+  }
