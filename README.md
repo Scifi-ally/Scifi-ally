@@ -13,9 +13,9 @@
 </tr>
 </table>
 
-## Scifi-ally
+## Sahaj Maurya
 
-**Software Developer · Open Source Enthusiast · Writer**
+**Computer Science Student | AI • Full-Stack Development • Digital Innovation**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-scifi--ally.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://scifi-ally.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-scifially-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/scifially)

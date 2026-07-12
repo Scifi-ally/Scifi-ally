@@ -43,24 +43,25 @@ ACCENT = "#ffffff"
 #    ("bul", text)          -> green dot + light bullet
 #    ("gap",)               -> a little vertical space
 # ===========================================================================
-HOST = "Scifi-ally"   # shown as  you@github  in the header
+HOST = "Sahaj"   # shown as  you@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "Now", "Software Developer @ TechCorp"),
-    ("kv", "Prev", "Open Source Contributor @ GitHub"),
-    ("kv", "Also", "Sci-Fi Enthusiast & Writer"),
-    ("kv", "Edu", "B.S. Computer Science '22"),
+    ("kv", "Now", "CS Student @ Lovely Professional Univ"),
+    ("kv", "Focus", "AI & Full-Stack Development"),
+    ("kv", "Also", "Digital Innovation Enthusiast"),
+    ("kv", "Edu", "B.Tech Computer Science & Engineering"),
     ("gap",),
     ("sec", "Stack"),
-    ("kv", "Languages", "Python, TypeScript, Go"),
-    ("kv", "Frontend", "React, Tailwind, Next.js"),
-    ("kv", "Backend", "Node, Postgres, Redis"),
-    ("kv", "Tools", "Git, Docker, GitHub Actions"),
+    ("kv", "Languages", "Python, TypeScript, JavaScript"),
+    ("kv", "Frontend", "React, UI/UX, Web Dev"),
+    ("kv", "Backend", "FastAPI, Express.js, PostgreSQL"),
+    ("kv", "Other", "Prompt Eng, AI Integration, Git"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "Built automated GitHub profiles"),
-    ("bul", "Contributed to multiple open-source CLI tools"),
+    ("bul", "Huginn AI Trading Platform"),
+    ("bul", "Intelligent Recipe & Nutrition Platform"),
+    ("bul", "Virtual Herbal Garden Web App"),
 ]
 
 
