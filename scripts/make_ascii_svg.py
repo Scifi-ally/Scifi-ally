@@ -43,7 +43,7 @@ STATUS_H = 30
 ART_W = COLS * CELL_W
 ART_H = ROWS * CELL_H
 CANVAS_W = ART_W + PAD * 2
-CANVAS_H = TITLEBAR_H + ART_H + STATUS_H + PAD
+CANVAS_H = TITLEBAR_H + ART_H + PAD
 
 BG = "#000000"
 BG2 = "#000000"
@@ -131,15 +131,7 @@ for ry, line in enumerate(rows_txt):
         f'<set attributeName="opacity" to="0" begin="{delay+ROW_DUR:.3f}s"/></rect>'
     )
 
-# status bar with a steady blinking cursor
-status_line_y = TITLEBAR_H + ART_H + PAD * 0.35
-status_y = status_line_y + 19
-parts.append(f'<line x1="0" y1="{status_line_y:.1f}" x2="{CANVAS_W}" y2="{status_line_y:.1f}" stroke="{FRAME}"/>')
-parts.append(f'<text x="{PAD}" y="{status_y:.1f}" fill="{TITLE_TEXT}" font-size="13">'
-             f'avi@github:~$ whoami <tspan fill="{INK}">Avi Vashishta</tspan></text>')
-parts.append(f'<rect x="{PAD+196}" y="{status_y-12:.1f}" width="8" height="14" fill="{INK}">'
-             f'<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" '
-             f'dur="1s" repeatCount="indefinite"/></rect>')
+
 
 parts.append("</svg>")
 svg = "".join(parts)
