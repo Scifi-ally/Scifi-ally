@@ -17,9 +17,8 @@
 
 **Computer Science Student | AI • Full-Stack Development • Digital Innovation**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-scifi--ally.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://scifi-ally.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-scifially-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/scifially)
-[![Twitter](https://img.shields.io/badge/Twitter-scifially-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/scifially)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahaj--mauryaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahaj-mauryaa/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Sahaj__Maurya-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sahaj_Maurya/)
 
 <br>
 
